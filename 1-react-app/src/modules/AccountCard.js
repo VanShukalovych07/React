@@ -6,7 +6,7 @@ const AccountCard = ({ name, city, email }) => {
       <p>Account Card</p>
 
       <div>
-        <p>Name:</p>
+        <p>Name: </p>
         <p>{name}</p>
       </div>
 
